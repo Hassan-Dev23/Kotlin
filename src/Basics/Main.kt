@@ -1,6 +1,6 @@
 package Basics
 
-//fun main ()
+//fun OOPS.main ()
 //{
 //    val a= 28
 //    val b = 84
